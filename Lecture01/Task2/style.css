@@ -1,0 +1,18 @@
+.box{
+	width:300px;
+	height:300px;
+}
+
+.red{
+	background:#f00;
+}
+.green{
+	background:#0f0;
+}
+.blue{
+	background:#00f;
+}
+
+.position{
+   position: absolute;   
+}
